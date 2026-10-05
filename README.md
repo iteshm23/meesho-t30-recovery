@@ -2,6 +2,10 @@
 
 Meesho DICE Challenge 3.0 · House Targaryen · Solution #13
 
+**Live: https://meesho-t30-recovery.vercel.app** · source: https://github.com/iteshm23/meesho-t30-recovery
+
+> Best viewed at 1440×900 or wider. Press `→` to step through the demo, `R` to reset.
+
 A failed delivery attempt today becomes a blind second attempt and then an RTO.
 This prototype shows the alternative: within 30 minutes of the failure, reach the
 customer, give them three real choices, turn the choice into an operational
